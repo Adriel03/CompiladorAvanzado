@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "njHSy6Hb7R2Vi4mMWN64OjuTsy8PUVsnvrAwclOGehWs9vc8ir1xeej8PbxCDsa8/HGOW/xSntTVStTWzMc4LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miran\\Downloads\\Samir\\Compilador\\Compilador-master\\Compilador-master\\Compilador\\Compilador.csproj",
+=======
+  "dgSpecHash": "Up3wtQo4o1HzLwZMzTvLWN25m5q6p239uXGRrLUqNGyYIQC4jJcF/rO3T8eC0GliGj5wL17PoeBGrnot1fmolQ==",
+  "success": true,
+  "projectFilePath": "D:\\Super Respaldo\\Programacion\\Programas\\ZCucei\\Traductores 2 Sem\\Compilador\\Compilador\\Compilador.csproj",
+>>>>>>> 01eea31e66e6daebeef2051cd739b3cb466e6d4e
+  "expectedPackageFiles": [],
+  "logs": []
+}

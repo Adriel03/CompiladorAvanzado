@@ -1,0 +1,37 @@
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Form1.resources
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+D:\Super Respaldo\Programacion\Programas\ZCucei\Traductores 2 Sem\Compilador\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+<<<<<<< HEAD
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\Compilador.Form1.resources
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\miran\Downloads\Samir\Compilador\Compilador-master\Compilador-master\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+=======
+>>>>>>> 01eea31e66e6daebeef2051cd739b3cb466e6d4e
